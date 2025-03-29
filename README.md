@@ -1,5 +1,6 @@
 # Python-to-C++ AI Code Converter
 
+---
 
 ## Overview
 
@@ -86,7 +87,7 @@ Here's an example of how to convert Python code into C++:
 
 Below is an example of the generated output from the Python-to-C++ converter:
 
-![Output Example](path_to_output_image.png)
+![Output Example](images/output.png)
 
 
 ## Requirements
