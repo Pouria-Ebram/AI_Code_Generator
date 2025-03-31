@@ -1,0 +1,7 @@
+requests
+dotenv
+openai
+google-generativeai
+anthropic
+gradio
+IPython
