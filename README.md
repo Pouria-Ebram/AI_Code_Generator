@@ -5,7 +5,7 @@
 ## Overview
 
 This project utilizes OpenAI and Anthropic Models as well as an open-source model to generate high-performance C++ code from Python code. It demonstrates how to set up and use a Hugging Face endpoint for code generation via an API. This serves as an introduction to deploying open-source models behind APIs, an essential step in integrating machine learning into production environments.
-We also use Gradio for an interactive UI for the application.
+We also use Gradio to create an interactive UI for the application.
 
 ## Features
 
